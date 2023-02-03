@@ -1,12 +1,8 @@
 # Infoweb Turma 2022 - FLA Game
 
-## Objetivo
-- Repositório dos Jogos Eletrônicos produzidos na disciplina de FLA de Infoweb Turma 2022
+#Jogo -> Space Junk Escape
 
-## Tecnologias
-- [Python](https://www.python.org/)
-- [pygame](https://www.pygame.org/)
+#Desenvolvedores -> Cauã Henrique e Guilherme Cristiano
 
-## Lista de jogos produzidos
-1. FIXME
-2. FIXME
+#Arte -> Cauã Henrique
+#Código -> Guilherme Cristiano
